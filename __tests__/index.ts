@@ -1,5 +1,5 @@
 //const { getUrlIso2 } = require("../index");
-import { getUrlIso2, getCountries } from "../index";
+import { getUrlIso2, getCountries } from "../src/index";
 
 describe("Test getUrlIso2", () => {
   it("should return /nigeria", () => {
