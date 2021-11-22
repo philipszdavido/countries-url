@@ -1494,7 +1494,7 @@ const countries: Countries = [
   {
     code: "VN",
     name: "Viet Nam",
-    url: "/viet_nam",
+    url: "/vietnam",
     fipsCode: "VM",
     region: "east-n-southeast-asia",
   },
