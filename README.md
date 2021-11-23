@@ -9,7 +9,13 @@ This returns countries with the follwoing properties:
 
 # API
 
-**getUrl**
+**getUrlIso2**
 
-This returns the URL of a country
-# countries-url
+This returns the URL of a country based on the ISO2 code.
+
+```js
+const { getUrlIso2 } = require("countries-url");
+
+getUrlIso2("VN");
+// vietnam
+```
