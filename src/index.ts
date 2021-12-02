@@ -12,6 +12,18 @@ export function getUrlIso2(countryCode: CountryCode): string | undefined {
     ?.url;
 }
 
+/**
+ *
+ * @param countryCode - ISO-3166 alpha2
+ * @returns Country
+ */
+export function getCountry(countryCode: CountryCode): Country | undefined {
+  return (
+    countries.find((country: Country) => country.code === countryCode) ||
+    undefined
+  );
+}
+
 /*export function getUrlIso3(countryCode: CountryCode): string | undefined {
   // `https://restcountries.eu/rest/v2/alpha/${country}`;
   return countries.find((country: Country) => country.code === countryCode)
