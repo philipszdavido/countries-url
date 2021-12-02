@@ -1,7 +1,7 @@
 {
   "name": "countries-url",
   "version": "1.0.7",
-  "description": "",
+  "description": "This list countries with important properties like fips code, ISO alpha 2 code, ISO alpha 3 code.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "source": "dist/index.ts",
@@ -10,7 +10,7 @@
     "test": "jest --watchAll"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chidume Nnamdi",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
