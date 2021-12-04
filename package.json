@@ -1,6 +1,6 @@
 {
   "name": "countries-url",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This list countries with important properties like fips code, ISO alpha 2 code, ISO alpha 3 code.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
