@@ -75,7 +75,7 @@ const countries: Countries = [
     name: "Australia",
     url: "/australia",
     fipsCode: "AS",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "AW",
@@ -236,7 +236,7 @@ const countries: Countries = [
     name: "Cocos (Keeling) Islands",
     url: "/cocos_keeling_islands",
     fipsCode: "CK",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "CD",
@@ -278,7 +278,7 @@ const countries: Countries = [
     name: "Cook Islands",
     url: "/cook_islands",
     fipsCode: "CW",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "CL",
@@ -341,7 +341,7 @@ const countries: Countries = [
     name: "Christmas Island",
     url: "/christmas_island",
     fipsCode: "KT",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "CY",
@@ -453,7 +453,7 @@ const countries: Countries = [
     name: "Fiji",
     url: "/fiji",
     fipsCode: "FJ",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "FK",
@@ -467,7 +467,7 @@ const countries: Countries = [
     name: "Micronesia, Federated States of",
     url: "/micronesia",
     fipsCode: "FM",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "FO",
@@ -740,7 +740,7 @@ const countries: Countries = [
     name: "Kiribati",
     url: "/kiribati",
     fipsCode: "KR",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "KM",
@@ -908,7 +908,7 @@ const countries: Countries = [
     name: "Marshall Islands",
     url: "/marshall_islands",
     fipsCode: "RM",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "MK",
@@ -1006,7 +1006,7 @@ const countries: Countries = [
     name: "New Caledonia",
     url: "/new_caledonia",
     fipsCode: "NC",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "NE",
@@ -1020,7 +1020,7 @@ const countries: Countries = [
     name: "Norfolk Island",
     url: "/norfolk_island",
     fipsCode: "NF",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "NG",
@@ -1062,21 +1062,21 @@ const countries: Countries = [
     name: "Nauru",
     url: "/nauru",
     fipsCode: "NR",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "NU",
     name: "Niue",
     url: "/niue",
     fipsCode: "NE",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "NZ",
     name: "New Zealand",
     url: "/new_zealand",
     fipsCode: "NZ",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "OM",
@@ -1104,7 +1104,7 @@ const countries: Countries = [
     name: "French Polynesia",
     url: "/french_polynesia",
     fipsCode: "FP",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "PG",
@@ -1153,7 +1153,7 @@ const countries: Countries = [
     name: "Palau",
     url: "/palau",
     fipsCode: "PS",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "PY",
@@ -1209,7 +1209,7 @@ const countries: Countries = [
     name: "Solomon Islands",
     url: "/solomon_islands",
     fipsCode: "BP",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "SC",
@@ -1398,7 +1398,7 @@ const countries: Countries = [
     name: "Tonga",
     url: "/tonga",
     fipsCode: "TN",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "TR",
@@ -1419,7 +1419,7 @@ const countries: Countries = [
     name: "Tuvalu",
     url: "/tuvalu",
     fipsCode: "TV",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "TW",
@@ -1503,21 +1503,21 @@ const countries: Countries = [
     name: "Vanuatu",
     url: "/vanuatu",
     fipsCode: "NH",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "WF",
     name: "Wallis and Futuna",
     url: "/wallis_and_futuna",
     fipsCode: "WF",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "WS",
     name: "Samoa",
     url: "/samoa",
     fipsCode: "WS",
-    region: "australia-oceania",
+    region: "oceania",
   },
   {
     code: "YE",
