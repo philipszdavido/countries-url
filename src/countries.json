@@ -1,0 +1,1549 @@
+[
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "url": "/andorra",
+    "fipsCode": "AN",
+    "region": "europe"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "url": "/united_arab_emirates",
+    "fipsCode": "AE",
+    "region": "middle-east"
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "url": "/afghanistan",
+    "fipsCode": "AF",
+    "region": "asia"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "url": "/antigua_and_barbuda",
+    "fipsCode": "AC",
+    "region": "caribbean"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "url": "/anguilla",
+    "fipsCode": "AV",
+    "region": "caribbean"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "url": "/albania",
+    "fipsCode": "AL",
+    "region": "europe"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "url": "/armenia",
+    "fipsCode": "AM",
+    "region": "asia"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "url": "/angola",
+    "fipsCode": "AO",
+    "region": "africa"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "url": "/argentina",
+    "fipsCode": "AR",
+    "region": "south-america"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "url": "/austria",
+    "fipsCode": "AU",
+    "region": "europe"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "url": "/australia",
+    "fipsCode": "AS",
+    "region": "oceania"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "url": "/aruba",
+    "fipsCode": "AA",
+    "region": "caribbean"
+  },
+  {
+    "code": "AX",
+    "name": "Åland Islands",
+    "url": "/aland_islands",
+    "fipsCode": "AX",
+    "region": "europe"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "url": "/azerbaijan",
+    "fipsCode": "AJ",
+    "region": "asia"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "url": "/bosnia_and_herzegovina",
+    "fipsCode": "BK",
+    "region": "europe"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "url": "/barbados",
+    "fipsCode": "BB",
+    "region": "caribbean"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "url": "/bangladesh",
+    "fipsCode": "BG",
+    "region": "asia"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "url": "/belgium",
+    "fipsCode": "BE",
+    "region": "europe"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "url": "/burkina_faso",
+    "fipsCode": "UV",
+    "region": "africa"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "url": "/bulgaria",
+    "fipsCode": "BU",
+    "region": "europe"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "url": "/bahrain",
+    "fipsCode": "BA",
+    "region": "middle-east"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "url": "/burundi",
+    "fipsCode": "BY",
+    "region": "africa"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "url": "/benin",
+    "fipsCode": "BN",
+    "region": "africa"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "url": "/saint_barthelemy",
+    "fipsCode": "TB",
+    "region": "caribbean"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "url": "/brunei_darussalam",
+    "fipsCode": "BX",
+    "region": "asia"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "url": "/bolivia",
+    "fipsCode": "BL",
+    "region": "south-america"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "url": "/brazil",
+    "fipsCode": "BR",
+    "region": "south-america"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "url": "/bahamas",
+    "fipsCode": "BF",
+    "region": "caribbean"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "url": "/bhutan",
+    "fipsCode": "BT",
+    "region": "asia"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "url": "/botswana",
+    "fipsCode": "BC",
+    "region": "africa"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "url": "/belarus",
+    "fipsCode": "BO",
+    "region": "europe"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "url": "/belize",
+    "fipsCode": "BH",
+    "region": "central-america"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "url": "/canada",
+    "fipsCode": "CA",
+    "region": "north-america"
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "url": "/cocos_keeling_islands",
+    "fipsCode": "CK",
+    "region": "oceania"
+  },
+  {
+    "code": "CD",
+    "name": "Congo",
+    "url": "/congo",
+    "fipsCode": "CG",
+    "region": "africa"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "url": "/central_african_republic",
+    "fipsCode": "CT",
+    "region": "africa"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "url": "/switzerland",
+    "fipsCode": "SZ",
+    "region": "europe"
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "url": "/cote_d_ivoire",
+    "fipsCode": "IV",
+    "region": "africa"
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "url": "/cook_islands",
+    "fipsCode": "CW",
+    "region": "oceania"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "url": "/chile",
+    "fipsCode": "CI",
+    "region": "south-america"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "url": "/cameroon",
+    "fipsCode": "CM",
+    "region": "africa"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "url": "/china",
+    "fipsCode": "CH",
+    "region": "asia"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "url": "/colombia",
+    "fipsCode": "CO",
+    "region": "south-america"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "url": "/costa_rica",
+    "fipsCode": "CS",
+    "region": "central-america"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "url": "/cuba",
+    "fipsCode": "CU",
+    "region": "caribbean"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "url": "/cabo_verde",
+    "fipsCode": "CV",
+    "region": "africa"
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "url": "/curacao",
+    "fipsCode": "UC",
+    "region": "caribbean"
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "url": "/christmas_island",
+    "fipsCode": "KT",
+    "region": "oceania"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "url": "/cyprus",
+    "fipsCode": "CY",
+    "region": "middle-east"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "url": "/czechia",
+    "fipsCode": "EZ",
+    "region": "europe"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "url": "/germany",
+    "fipsCode": "GM",
+    "region": "europe"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "url": "/djibouti",
+    "fipsCode": "DJ",
+    "region": "africa"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "url": "/denmark",
+    "fipsCode": "DA",
+    "region": "europe"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "url": "/dominica",
+    "fipsCode": "DO",
+    "region": "caribbean"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "url": "/dominican_republic",
+    "fipsCode": "DR",
+    "region": "caribbean"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "url": "/algeria",
+    "fipsCode": "AG",
+    "region": "africa"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "url": "/ecuador",
+    "fipsCode": "EC",
+    "region": "south-america"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "url": "/estonia",
+    "fipsCode": "EN",
+    "region": "europe"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "url": "/egypt",
+    "fipsCode": "EG",
+    "region": "africa"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "url": "/eritrea",
+    "fipsCode": "ER",
+    "region": "africa"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "url": "/spain",
+    "fipsCode": "SP",
+    "region": "europe"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "url": "/ethiopia",
+    "fipsCode": "ET",
+    "region": "africa"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "url": "/finland",
+    "fipsCode": "FI",
+    "region": "europe"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "url": "/fiji",
+    "fipsCode": "FJ",
+    "region": "oceania"
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "url": "/falkland_islands_malvinas",
+    "fipsCode": "FK",
+    "region": "south-america"
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia",
+    "url": "/micronesia",
+    "fipsCode": "FM",
+    "region": "oceania"
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "url": "/faroe_islands",
+    "fipsCode": "FO",
+    "region": "europe"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "url": "/france",
+    "fipsCode": "FR",
+    "region": "europe"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "url": "/gabon",
+    "fipsCode": "GB",
+    "region": "africa"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "url": "/united_kingdom",
+    "fipsCode": "UK",
+    "region": "europe"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "url": "/grenada",
+    "fipsCode": "GJ",
+    "region": "caribbean"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "url": "/georgia",
+    "fipsCode": "GG",
+    "region": "asia"
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "url": "/guernsey",
+    "fipsCode": "GK",
+    "region": "europe"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "url": "/ghana",
+    "fipsCode": "GH",
+    "region": "africa"
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "url": "/gibraltar",
+    "fipsCode": "GI",
+    "region": "europe"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "url": "/greenland",
+    "fipsCode": "GL",
+    "region": "north-america"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "url": "/gambia",
+    "fipsCode": "GA",
+    "region": "africa"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "url": "/guinea",
+    "fipsCode": "GV",
+    "region": "africa"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "url": "/equatorial_guinea",
+    "fipsCode": "EK",
+    "region": "africa"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "url": "/greece",
+    "fipsCode": "GR",
+    "region": "europe"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "url": "/guatemala",
+    "fipsCode": "GT",
+    "region": "central-america"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "url": "/guinea_bissau",
+    "fipsCode": "PU",
+    "region": "africa"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "url": "/guyana",
+    "fipsCode": "GY",
+    "region": "south-america"
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "url": "/hong_kong",
+    "fipsCode": "HK",
+    "region": "asia"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "url": "/honduras",
+    "fipsCode": "HO",
+    "region": "central-america"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "url": "/croatia",
+    "fipsCode": "HR",
+    "region": "europe"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "url": "/haiti",
+    "fipsCode": "HA",
+    "region": "caribbean"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "url": "/hungary",
+    "fipsCode": "HU",
+    "region": "europe"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "url": "/indonesia",
+    "fipsCode": "ID",
+    "region": "asia"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "url": "/ireland",
+    "fipsCode": "EI",
+    "region": "europe"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "url": "/israel",
+    "fipsCode": "IS",
+    "region": "middle-east"
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "url": "/isle_of_man",
+    "fipsCode": "IM",
+    "region": "europe"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "url": "/india",
+    "fipsCode": "IN",
+    "region": "asia"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "url": "/iraq",
+    "fipsCode": "IZ",
+    "region": "middle-east"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "url": "/iran",
+    "fipsCode": "IR",
+    "region": "middle-east"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "url": "/iceland",
+    "fipsCode": "IC",
+    "region": "europe"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "url": "/italy",
+    "fipsCode": "IT",
+    "region": "europe"
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "url": "/jersey",
+    "fipsCode": "JE",
+    "region": "europe"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "url": "/jamaica",
+    "fipsCode": "JM",
+    "region": "caribbean"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "url": "/jordan",
+    "fipsCode": "JO",
+    "region": "middle-east"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "url": "/japan",
+    "fipsCode": "JA",
+    "region": "asia"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "url": "/kenya",
+    "fipsCode": "KE",
+    "region": "africa"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "url": "/kyrgyzstan",
+    "fipsCode": "KG",
+    "region": "asia"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "url": "/cambodia",
+    "fipsCode": "CB",
+    "region": "asia"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "url": "/kiribati",
+    "fipsCode": "KR",
+    "region": "oceania"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "url": "/comoros",
+    "fipsCode": "CN",
+    "region": "africa"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "url": "/saint_kitts_and_nevis",
+    "fipsCode": "SC",
+    "region": "caribbean"
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "url": "/north_korea",
+    "fipsCode": "KN",
+    "region": "asia"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "url": "/south_korea",
+    "fipsCode": "KS",
+    "region": "asia"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "url": "/kuwait",
+    "fipsCode": "KU",
+    "region": "middle-east"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "url": "/cayman_islands",
+    "fipsCode": "CJ",
+    "region": "caribbean"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "url": "/kazakhstan",
+    "fipsCode": "KZ",
+    "region": "asia"
+  },
+  {
+    "code": "LA",
+    "name": "Lao",
+    "url": "/lao",
+    "fipsCode": "LA",
+    "region": "asia"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "url": "/lebanon",
+    "fipsCode": "LE",
+    "region": "middle-east"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "url": "/saint_lucia",
+    "fipsCode": "ST",
+    "region": "caribbean"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "url": "/sri_lanka",
+    "fipsCode": "CE",
+    "region": "asia"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "url": "/liberia",
+    "fipsCode": "LI",
+    "region": "africa"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "url": "/lesotho",
+    "fipsCode": "LT",
+    "region": "africa"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "url": "/lithuania",
+    "fipsCode": "LH",
+    "region": "europe"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "url": "/luxembourg",
+    "fipsCode": "LU",
+    "region": "europe"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "url": "/latvia",
+    "fipsCode": "LG",
+    "region": "europe"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "url": "/libya",
+    "fipsCode": "LY",
+    "region": "africa"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "url": "/morocco",
+    "fipsCode": "MO",
+    "region": "africa"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "url": "/monaco",
+    "fipsCode": "MN",
+    "region": "europe"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "url": "/moldova",
+    "fipsCode": "MD",
+    "region": "europe"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "url": "/montenegro",
+    "fipsCode": "MJ",
+    "region": "europe"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin",
+    "url": "/saint_martin",
+    "fipsCode": "RN",
+    "region": "caribbean"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "url": "/madagascar",
+    "fipsCode": "MA",
+    "region": "africa"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "url": "/marshall_islands",
+    "fipsCode": "RM",
+    "region": "oceania"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "url": "/north_macedonia",
+    "fipsCode": "MK",
+    "region": "europe"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "url": "/mali",
+    "fipsCode": "ML",
+    "region": "africa"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "url": "/myanmar",
+    "fipsCode": "BM",
+    "region": "asia"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "url": "/mongolia",
+    "fipsCode": "MG",
+    "region": "asia"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "url": "/mauritania",
+    "fipsCode": "MR",
+    "region": "africa"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "url": "/malta",
+    "fipsCode": "MT",
+    "region": "europe"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "url": "/mauritius",
+    "fipsCode": "MP",
+    "region": "africa"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "url": "/maldives",
+    "fipsCode": "MV",
+    "region": "asia"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "url": "/malawi",
+    "fipsCode": "MI",
+    "region": "africa"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "url": "/mexico",
+    "fipsCode": "MX",
+    "region": "north-america"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "url": "/malaysia",
+    "fipsCode": "MY",
+    "region": "asia"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "url": "/mozambique",
+    "fipsCode": "MZ",
+    "region": "africa"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "url": "/namibia",
+    "fipsCode": "WA",
+    "region": "africa"
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "url": "/new_caledonia",
+    "fipsCode": "NC",
+    "region": "oceania"
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "url": "/niger",
+    "fipsCode": "NG",
+    "region": "africa"
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "url": "/norfolk_island",
+    "fipsCode": "NF",
+    "region": "oceania"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "url": "/nigeria",
+    "fipsCode": "NI",
+    "region": "africa"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "url": "/nicaragua",
+    "fipsCode": "NU",
+    "region": "central-america"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "url": "/netherlands",
+    "fipsCode": "NL",
+    "region": "europe"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "url": "/norway",
+    "fipsCode": "NO",
+    "region": "europe"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "url": "/nepal",
+    "fipsCode": "NP",
+    "region": "asia"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "url": "/nauru",
+    "fipsCode": "NR",
+    "region": "oceania"
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "url": "/niue",
+    "fipsCode": "NE",
+    "region": "oceania"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "url": "/new_zealand",
+    "fipsCode": "NZ",
+    "region": "oceania"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "url": "/oman",
+    "fipsCode": "MU",
+    "region": "middle-east"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "url": "/panama",
+    "fipsCode": "PM",
+    "region": "central-america"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "url": "/peru",
+    "fipsCode": "PE",
+    "region": "south-america"
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "url": "/french_polynesia",
+    "fipsCode": "FP",
+    "region": "oceania"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "url": "/papua_new_guinea",
+    "fipsCode": "PP",
+    "region": "oceania"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "url": "/philippines",
+    "fipsCode": "RP",
+    "region": "asia"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "url": "/pakistan",
+    "fipsCode": "PK",
+    "region": "asia"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "url": "/poland",
+    "fipsCode": "PL",
+    "region": "europe"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "url": "/saint_pierre_and_miquelon",
+    "fipsCode": "SB",
+    "region": "north-america"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "url": "/portugal",
+    "fipsCode": "PO",
+    "region": "europe"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "url": "/palau",
+    "fipsCode": "PS",
+    "region": "oceania"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "url": "/paraguay",
+    "fipsCode": "PA",
+    "region": "south-america"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "url": "/qatar",
+    "fipsCode": "QA",
+    "region": "middle-east"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "url": "/romania",
+    "fipsCode": "RO",
+    "region": "europe"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "url": "/serbia",
+    "fipsCode": "RI",
+    "region": "europe"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "url": "/russian_federation",
+    "fipsCode": "RS",
+    "region": "europe"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "url": "/rwanda",
+    "fipsCode": "RW",
+    "region": "africa"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "url": "/saudi_arabia",
+    "fipsCode": "SA",
+    "region": "middle-east"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "url": "/solomon_islands",
+    "fipsCode": "BP",
+    "region": "oceania"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "url": "/seychelles",
+    "fipsCode": "SE",
+    "region": "africa"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "url": "/sudan",
+    "fipsCode": "SU",
+    "region": "africa"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "url": "/sweden",
+    "fipsCode": "SW",
+    "region": "europe"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "url": "/singapore",
+    "fipsCode": "SN",
+    "region": "asia"
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "url": "/saint_helena_ascension_and_tristan_da_cunha",
+    "fipsCode": "SH",
+    "region": "africa"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "url": "/slovenia",
+    "fipsCode": "SI",
+    "region": "europe"
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "url": "/svalbard_and_jan_mayen",
+    "fipsCode": "SV",
+    "region": "europe"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "url": "/slovakia",
+    "fipsCode": "LO",
+    "region": "europe"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "url": "/sierra_leone",
+    "fipsCode": "SL",
+    "region": "africa"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "url": "/senegal",
+    "fipsCode": "SG",
+    "region": "africa"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "url": "/somalia",
+    "fipsCode": "SO",
+    "region": "africa"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "url": "/suriname",
+    "fipsCode": "NS",
+    "region": "south-america"
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "url": "/south_sudan",
+    "fipsCode": "OD",
+    "region": "africa"
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "url": "/sao_tome_and_principe",
+    "fipsCode": "TP",
+    "region": "africa"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "url": "/el_salvador",
+    "fipsCode": "ES",
+    "region": "central-america"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten",
+    "url": "/sint_maarten",
+    "fipsCode": "NN",
+    "region": "caribbean"
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "url": "/syria",
+    "fipsCode": "SY",
+    "region": "middle-east"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "url": "/eswatini",
+    "fipsCode": "WZ",
+    "region": "africa"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "url": "/turks_and_caicos_islands",
+    "fipsCode": "TK",
+    "region": "caribbean"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "url": "/chad",
+    "fipsCode": "CD",
+    "region": "africa"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "url": "/togo",
+    "fipsCode": "TO",
+    "region": "africa"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "url": "/thailand",
+    "fipsCode": "TH",
+    "region": "asia"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "url": "/tajikistan",
+    "fipsCode": "TI",
+    "region": "asia"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "url": "/timor_leste",
+    "fipsCode": "TT",
+    "region": "asia"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "url": "/turkmenistan",
+    "fipsCode": "TX",
+    "region": "asia"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "url": "/tunisia",
+    "fipsCode": "TS",
+    "region": "africa"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "url": "/tonga",
+    "fipsCode": "TN",
+    "region": "oceania"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "url": "/turkey",
+    "fipsCode": "TU",
+    "region": "middle-east"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "url": "/trinidad_and_tobago",
+    "fipsCode": "TD",
+    "region": "caribbean"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "url": "/tuvalu",
+    "fipsCode": "TV",
+    "region": "oceania"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan",
+    "url": "/taiwan",
+    "fipsCode": "TW",
+    "region": "asia"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "url": "/tanzania",
+    "fipsCode": "TZ",
+    "region": "africa"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "url": "/ukraine",
+    "fipsCode": "UP",
+    "region": "europe"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "url": "/uganda",
+    "fipsCode": "UG",
+    "region": "africa"
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "url": "/united_states_of_america",
+    "fipsCode": "US",
+    "region": "north-america"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "url": "/uruguay",
+    "fipsCode": "UY",
+    "region": "south-america"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "url": "/uzbekistan",
+    "fipsCode": "UZ",
+    "region": "asia"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "url": "/saint_vincent_and_the_grenadines",
+    "fipsCode": "VC",
+    "region": "caribbean"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "url": "/venezuela",
+    "fipsCode": "VE",
+    "region": "south-america"
+  },
+  {
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "url": "/british_virgin_islands",
+    "fipsCode": "VI",
+    "region": "caribbean"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "url": "/vietnam",
+    "fipsCode": "VM",
+    "region": "asia"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "url": "/vanuatu",
+    "fipsCode": "NH",
+    "region": "oceania"
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "url": "/wallis_and_futuna",
+    "fipsCode": "WF",
+    "region": "oceania"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "url": "/samoa",
+    "fipsCode": "WS",
+    "region": "oceania"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "url": "/yemen",
+    "fipsCode": "YM",
+    "region": "middle-east"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "url": "/south_africa",
+    "fipsCode": "SF",
+    "region": "africa"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "url": "/zambia",
+    "fipsCode": "ZA",
+    "region": "africa"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "url": "/zimbabwe",
+    "fipsCode": "ZI",
+    "region": "africa"
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "url": "/kosovo",
+    "fipsCode": "KV",
+    "region": "europe"
+  }
+]

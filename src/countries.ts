@@ -1,18 +1,19 @@
 import { Countries } from "./types";
+
 const countries: Countries = [
   {
     code: "AD",
     name: "Andorra",
     url: "/andorra",
-    region: "europe",
     fipsCode: "AN",
+    region: "europe",
   },
   {
     code: "AE",
     name: "United Arab Emirates",
     url: "/united_arab_emirates",
     fipsCode: "AE",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "AF",
@@ -145,7 +146,7 @@ const countries: Countries = [
     name: "Bahrain",
     url: "/bahrain",
     fipsCode: "BA",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "BI",
@@ -170,14 +171,14 @@ const countries: Countries = [
   },
   {
     code: "BN",
-    name: "Brunei Darussalam",
+    name: "Brunei",
     url: "/brunei_darussalam",
     fipsCode: "BX",
     region: "asia",
   },
   {
     code: "BO",
-    name: "Bolivia, Plurinational State of",
+    name: "Bolivia",
     url: "/bolivia",
     fipsCode: "BL",
     region: "south-america",
@@ -240,7 +241,7 @@ const countries: Countries = [
   },
   {
     code: "CD",
-    name: "Congo, Democratic Republic of the",
+    name: "Congo",
     url: "/congo",
     fipsCode: "CG",
     region: "africa",
@@ -250,13 +251,6 @@ const countries: Countries = [
     name: "Central African Republic",
     url: "/central_african_republic",
     fipsCode: "CT",
-    region: "africa",
-  },
-  {
-    code: "CG",
-    name: "Congo",
-    url: "/congo",
-    fipsCode: "CF",
     region: "africa",
   },
   {
@@ -348,7 +342,7 @@ const countries: Countries = [
     name: "Cyprus",
     url: "/cyprus",
     fipsCode: "CY",
-    region: "europe",
+    region: "middle-east",
   },
   {
     code: "CZ",
@@ -464,7 +458,7 @@ const countries: Countries = [
   },
   {
     code: "FM",
-    name: "Micronesia, Federated States of",
+    name: "Micronesia",
     url: "/micronesia",
     fipsCode: "FM",
     region: "oceania",
@@ -492,7 +486,7 @@ const countries: Countries = [
   },
   {
     code: "GB",
-    name: "United Kingdom of Great Britain and Northern Ireland",
+    name: "United Kingdom",
     url: "/united_kingdom",
     fipsCode: "UK",
     region: "europe",
@@ -642,7 +636,7 @@ const countries: Countries = [
     name: "Israel",
     url: "/israel",
     fipsCode: "IS",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "IM",
@@ -663,14 +657,14 @@ const countries: Countries = [
     name: "Iraq",
     url: "/iraq",
     fipsCode: "IZ",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "IR",
-    name: "Iran, Islamic Republic of",
+    name: "Iran",
     url: "/iran",
     fipsCode: "IR",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "IS",
@@ -705,7 +699,7 @@ const countries: Countries = [
     name: "Jordan",
     url: "/jordan",
     fipsCode: "JO",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "JP",
@@ -758,14 +752,14 @@ const countries: Countries = [
   },
   {
     code: "KP",
-    name: "Korea, Democratic People's Republic of",
+    name: "North Korea",
     url: "/north_korea",
     fipsCode: "KN",
     region: "asia",
   },
   {
     code: "KR",
-    name: "Korea, Republic of",
+    name: "South Korea",
     url: "/south_korea",
     fipsCode: "KS",
     region: "asia",
@@ -775,7 +769,7 @@ const countries: Countries = [
     name: "Kuwait",
     url: "/kuwait",
     fipsCode: "KU",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "KY",
@@ -793,7 +787,7 @@ const countries: Countries = [
   },
   {
     code: "LA",
-    name: "Lao People's Democratic Republic",
+    name: "Lao",
     url: "/lao",
     fipsCode: "LA",
     region: "asia",
@@ -803,7 +797,7 @@ const countries: Countries = [
     name: "Lebanon",
     url: "/lebanon",
     fipsCode: "LE",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "LC",
@@ -877,7 +871,7 @@ const countries: Countries = [
   },
   {
     code: "MD",
-    name: "Moldova, Republic of",
+    name: "Moldova",
     url: "/moldova",
     fipsCode: "MD",
     region: "europe",
@@ -891,8 +885,8 @@ const countries: Countries = [
   },
   {
     code: "MF",
-    name: "Saint Martin, (French part)",
-    url: "/saint_martin_french_part",
+    name: "Saint Martin",
+    url: "/saint_martin",
     fipsCode: "RN",
     region: "caribbean",
   },
@@ -1083,7 +1077,7 @@ const countries: Countries = [
     name: "Oman",
     url: "/oman",
     fipsCode: "MU",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "PA",
@@ -1111,7 +1105,7 @@ const countries: Countries = [
     name: "Papua New Guinea",
     url: "/papua_new_guinea",
     fipsCode: "PP",
-    region: "asia",
+    region: "oceania",
   },
   {
     code: "PH",
@@ -1167,7 +1161,7 @@ const countries: Countries = [
     name: "Qatar",
     url: "/qatar",
     fipsCode: "QA",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "RO",
@@ -1185,10 +1179,10 @@ const countries: Countries = [
   },
   {
     code: "RU",
-    name: "Russian Federation",
+    name: "Russia",
     url: "/russian_federation",
     fipsCode: "RS",
-    region: "asia",
+    region: "europe",
   },
   {
     code: "RW",
@@ -1202,7 +1196,7 @@ const countries: Countries = [
     name: "Saudi Arabia",
     url: "/saudi_arabia",
     fipsCode: "SA",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "SB",
@@ -1318,17 +1312,17 @@ const countries: Countries = [
   },
   {
     code: "SX",
-    name: "Sint Maarten, (Dutch part)",
-    url: "/sint_maarten_dutch_part",
+    name: "Sint Maarten",
+    url: "/sint_maarten",
     fipsCode: "NN",
     region: "caribbean",
   },
   {
     code: "SY",
-    name: "Syrian Arab Republic",
+    name: "Syria",
     url: "/syria",
     fipsCode: "SY",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "SZ",
@@ -1405,7 +1399,7 @@ const countries: Countries = [
     name: "Turkey",
     url: "/turkey",
     fipsCode: "TU",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "TT",
@@ -1423,7 +1417,7 @@ const countries: Countries = [
   },
   {
     code: "TW",
-    name: "Taiwan, Province of China",
+    name: "Taiwan",
     url: "/taiwan",
     fipsCode: "TW",
     region: "asia",
@@ -1451,7 +1445,7 @@ const countries: Countries = [
   },
   {
     code: "US",
-    name: "United States of America",
+    name: "United States",
     url: "/united_states_of_america",
     fipsCode: "US",
     region: "north-america",
@@ -1479,21 +1473,21 @@ const countries: Countries = [
   },
   {
     code: "VE",
-    name: "Venezuela, Bolivarian Republic of",
+    name: "Venezuela",
     url: "/venezuela",
     fipsCode: "VE",
     region: "south-america",
   },
   {
     code: "VG",
-    name: "Virgin Islands, British",
-    url: "/virgin_islands_british",
+    name: "British Virgin Islands",
+    url: "/british_virgin_islands",
     fipsCode: "VI",
     region: "caribbean",
   },
   {
     code: "VN",
-    name: "Viet Nam",
+    name: "Vietnam",
     url: "/vietnam",
     fipsCode: "VM",
     region: "asia",
@@ -1524,7 +1518,7 @@ const countries: Countries = [
     name: "Yemen",
     url: "/yemen",
     fipsCode: "YM",
-    region: "asia",
+    region: "middle-east",
   },
   {
     code: "ZA",
@@ -1555,4 +1549,5 @@ const countries: Countries = [
     region: "europe",
   },
 ];
+
 export default countries;
