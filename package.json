@@ -7,7 +7,21 @@
   "source": "dist/index.ts",
   "scripts": {
     "prepublish": "tsc",
-    "test": "jest --watchAll"
+    "version-patch": "npm version patch",
+    "version-minor": "npm version minor",
+    "version-major": "npm version major",
+    "version-rebuild": "npm version patch && npm version minor && npm version major",
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "preversion": "npm run lint",
+    "postversion": "git push && git push --tags",
+    "release": "npm run build && npm publish --access public",
+    "release-patch": "npm run version-patch && npm run release",
+    "release-minor": "npm run version-minor && npm run release",
+    "release-major": "npm run version-major && npm run release",
+    "release-rebuild": "npm run version-rebuild && npm run release",
+    "test-watch": "jest --watchAll"
   },
   "keywords": [],
   "author": "Chidume Nnamdi",
